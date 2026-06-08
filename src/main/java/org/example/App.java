@@ -3,7 +3,7 @@ package org.example;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-
+//checking for github
 public class App
 {
     public static void main(String[] args) {
